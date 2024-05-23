@@ -6,8 +6,8 @@
 
 Pandas is a Python library for data analysis. It provides high-performance, easy-to-use data structures and data analysis tools. In this skill tree, you'll learn how to use Pandas to analyze data in Python.
 
-|   Index | Name                                              | Difficulty   | Tutorial                                                                                           |
-|---------|---------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------|
+|   Index | Name                                             | Difficulty   | Tutorial                                                                                          |
+|---------|--------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First Pandas Lab                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/your-first-pandas-lab-92727)                         |
 |      02 | 📖 Working With Pandas                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/working-with-pandas-65430)                           |
 |      03 | 📖 Pandas Data Manipulation                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/pandas-data-manipulation-65431)                      |
@@ -129,7 +129,8 @@ Pandas is a Python library for data analysis. It provides high-performance, easy
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
