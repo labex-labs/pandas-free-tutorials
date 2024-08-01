@@ -99,7 +99,7 @@ Pandas is a Python library for data analysis. It provides high-performance, easy
 |      89 | [📖 Pandas DataFrame Fillna Method](https://labex.io/tutorials/python-pandas-dataframe-fillna-method-68621)                                | ★☆☆          | [🔗 View](https://labex.io/tutorials/python-pandas-dataframe-fillna-method-68621)                |
 |      90 | [📖 Pandas Append Method](https://labex.io/tutorials/python-pandas-append-method-68576)                                                    | ★☆☆          | [🔗 View](https://labex.io/tutorials/python-pandas-append-method-68576)                          |
 |      91 | [📖 Text Data Handling in Pandas](https://labex.io/tutorials/python-text-data-handling-in-pandas-65455)                                    | ★☆☆          | [🔗 View](https://labex.io/tutorials/python-text-data-handling-in-pandas-65455)                  |
-|      92 | [📖 100 Pandas Exercises](https://labex.io/tutorials/notebooks-lab-100-pandas-exercises-20747)                                             | ★☆☆          | [🔗 View](https://labex.io/tutorials/notebooks-lab-100-pandas-exercises-20747)                   |
+|      92 | [📖 100 Pandas Exercises](https://labex.io/tutorials/100-pandas-exercises-20747)                                                           | ★☆☆          | [🔗 View](https://labex.io/tutorials/100-pandas-exercises-20747)                                 |
 
 ## More Free Tutorials
 
